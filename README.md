@@ -8,7 +8,7 @@
 
 ## 配置地址 简易设定流程：
 * 我的 --> 设置 --> 配置地址
-	1. 请输入 https://gitea.com/dq8888/TVBox/raw/branch/master/snadds.json --> 确定
+	1. 请输入  https://gitea.com/dq8888/TVBox/raw/branch/main/snadds.json --> 确定
 
 ## 切换数据源
 * 我的 --> 设置 --> 首页数据源
