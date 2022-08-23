@@ -186,6 +186,7 @@
 {"key":"csp_appysv2_52看剧","name":"🎥52看剧(萝卜)®神农戴也🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"},
 {"key":"csp_appysv2_521看剧","name":"🎥521看剧(萝卜)®神农戴也🎷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://521kanju.com/api.php/v1.vod"},
 #
+
 #神马
 {"key":"csp_appysv2_醉璃笙TV","name":"📺醉璃笙TV(神马)®神农戴也💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"},
 {"key":"csp_appysv2_柚子TV","name":"🍈柚子TV(神马)®神农戴也💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tvht.lanrentk.cc/api.php/iptv/vod/"},
@@ -274,7 +275,7 @@
 {"key":"胖猫影视","name":"🐱胖猫影视(聚)®神农戴也","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"爱兜视频","name":"💖爱兜视频(聚)®神农戴也","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"瞬间影视","name":"🎥瞬间影视(聚)®神农戴也","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},#
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"创艺影视","name":"🎥创艺影视(聚)®神农戴也","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"香瓜影视","name":"🎥香瓜影视(聚)®神农戴也","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"艾思影院","name":"🎥艾思影院(聚)®神农戴也","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/","playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
