@@ -279,6 +279,8 @@
 {"key":"创艺影视","name":"🎥创艺影视(聚)®神农戴也","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"香瓜影视","name":"🎥香瓜影视(聚)®神农戴也","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"艾思影院","name":"🎥艾思影院(聚)®神农戴也","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/","playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
+#
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
 "parses":[
