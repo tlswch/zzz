@@ -25,7 +25,7 @@
 {"key": "KanSJ_spider","name": "👓看视界(SP)®神农戴也💎","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/ksj.jar"},
 {"key": "9E03", "name": "👸9E国语(SP)®神农戴也💎", "type":3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/9E03.jar"},
 {"key": "csp_QQ","name":"🐧腾讯视频®神农戴也💎","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0804.jar"},
-{"key": "爱奇艺","name":"🤟爱奇艺®神农戴也💎","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0804.jar"},
+{"key": "爱奇艺","name":"🍦爱奇艺®神农戴也💎","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0804.jar"},
 {"key": "csp_MGTV","name":"🥭芒果TV®神农戴也💎","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0804.jar"},
 {"key": "Nfyun","name":"🔮Nf云®神农戴也💎","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0801.jar"},
 {"key": "csp_Blixs","name":"👬相声小品(SP)®神农戴也💎","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/custom_spider0701.jar"},
@@ -291,6 +291,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 # type1 聚合.并发.轮询
 {"name":"云you解析","type":1,"url":"https://ax.jx.cn/apii.php?url="},
 {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
