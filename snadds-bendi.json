@@ -6,7 +6,7 @@
 {
 ## spider
 //"spider":"clan://TVBox/MaooXB2/XBiubiuLA3.jar",
-"spider":"clan://TVBox/MaooXB2/dq0802.jar",
+"spider":"clan://TVBox/MaooXB2/dq0802.jar;md5;82b8f673751c52c2b35d435d6d3e8f80",
 
 # 直播
 "lives": [
