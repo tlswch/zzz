@@ -87,7 +87,6 @@
 {"key":"csp_biubiu_维奇动漫","name":"🎡维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/维奇动漫.json"},
 {"key":"csp_biubiu_人人影视","name":"📺人人影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/人人影视.json"},
 {"key":"csp_biubiu_星空影视","name":"🌙星空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/星空影视.json"},
-{"key":"*523资源","name":"🔞🈲成人资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"csp_biubiu_看一看影视","name":"📺看一看影视(XB)🎷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/看一看影视.json"},
 {"key":"csp_biubiu_F7好看剧","name":"🎡F7好看剧(XB)🎷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/F7好看剧.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"🍉瓜皮TV(XB)🎷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/瓜皮TV.json"},
