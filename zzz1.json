@@ -41,6 +41,10 @@
 {"key":"高中教育","name":"🏫高中课堂💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/高中课堂.json","jar":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/dq0802.jar"},
 {"key":"儿童","name":"🎠儿童乐园💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/儿童乐园.json","jar": "https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/dq888.jar"},
 {"key":"学习","name":"📚学习园地💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/学习园地.json","jar": "https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/dq888.jar"},
+{"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0},
+{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key": "csp_Blixs","name":"👬相声小品(SP)💎","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/custom_spider0701.jar"},
 //{"key": "csp_Blixq","name":"💁戏曲(SP)💎","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/mmmgit/tvbox/raw/branch/main/MaooXB2/custom_spider0701.jar"},
