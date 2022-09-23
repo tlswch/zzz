@@ -2,8 +2,8 @@
 
 # TV'Box
 * TV'Box｜APP
-  + Github开原仓库：[TVBoxOSC]https://github.com/CatVodTVOfficial/TVBoxOSC
-                            https://github.com/q215613905/TVBoxOS
+  + Github开原仓库：[TVBoxOSC]（https://github.com/CatVodTVOfficial/TVBoxOSC）（https://github.com/q215613905/TVBoxOS）
+                            
   + 测试版APK下载：
 	+ 好心的大佬，提供已签名可安装的"最新测试版APK" (实时更新)
 	+ [o0HalfLife0o大佬 Github](https://github.com/o0HalfLife0o/TVBoxOSC)：有下载安装成功的记得帮大佬按右上角的star星星
