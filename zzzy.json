@@ -11,7 +11,7 @@
 "sites":[
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)💎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)💎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"💢360(SP)💎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/custom_spider0701.jar"},
+{"key":"csp_SP360","name":"💢360(SP)💎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0928.jar"},
 {"key": "csp_Xxys","name": "🐻小熊(SP)💎","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0928.jar"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)💎","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0928.jar"},
 {"key":"csp_Zxzj","name":"💒在线之家(SP)💎","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
